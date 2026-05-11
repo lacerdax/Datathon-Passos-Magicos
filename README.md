@@ -10,7 +10,7 @@ entrega final da **Fase 5 do curso de Data Analytics da PosTech (FIAP)**.
 
 A Associação Passos Mágicos tem 35 anos de atuação transformando a vida de
 crianças e jovens em vulnerabilidade social em Embu-Guaçu (SP) por meio de
-educação de qualidade, apoio psicológico e ampliação de visão de mundo.
+educação de qualidade, apoio psicológico e ampliação de visão de mundo.h
 
 Este projeto analisa a base **PEDE** (Pesquisa Extensiva do Desenvolvimento
 Educacional) dos anos de **2022, 2023 e 2024**, respondendo a 11 perguntas de
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 Abra cada notebook no VS Code e clique em **Run All**.
 
-###4. Rode o app Streamlit
+### 4. Rode o app Streamlit
 
 ```bash
 python -m streamlit run app/app.py
@@ -177,7 +177,7 @@ python -m streamlit run app/app.py
 
 ## 👤 Autor
 
-**[Seu Nome]**
+**Lucas Campos Araujo Lacerda**
 Curso de Data Analytics — PosTech FIAP
 [LinkedIn](https://linkedin.com/in/lacerdaxl) · [GitHub](https://github.com/lacerdax)
 
