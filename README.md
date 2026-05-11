@@ -20,7 +20,7 @@ negócio e construindo um modelo preditivo de risco de defasagem.
 
 ## 🚀 App Streamlit
 
-> 🔗 **[Acesse o app aqui](link do deploy)**
+> 🔗 **https://datathon-postech-fiap.streamlit.app/**
 
 O app permite:
 
